@@ -1,0 +1,4 @@
+--TOP 3 parental level of education good in reading also good in writing?
+SELECT parental_level_of_education, reading_score, writing_score
+FROM Students_Performance_in_Exams
+ORDER BY reading_score, writing_score DESC LIMIT 3
