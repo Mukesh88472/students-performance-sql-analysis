@@ -65,3 +65,46 @@ Based on SQL queries, here are the final insights:
 
 ## 📂 Project Structure
 
+
+---
+
+## 📘 SQL Queries Included
+### 🔹 Gender Analysis  
+### 🔹 Race/Ethnicity Comparison  
+### 🔹 Parental Education Impact  
+### 🔹 Lunch Type Impact  
+### 🔹 Test Preparation Course Effect  
+### 🔹 Overall Summary (AVG, MIN, MAX)  
+### 🔹 Subject Performance Statistics  
+
+Each query is saved separately in the **sql_queries** folder.
+
+---
+
+## 📑 Why No PDF Report?
+Since SQL projects are best reviewed directly in `.sql` format and README.md, a PDF report is optional.  
+Most recruiters prefer:
+- Clean SQL files  
+- A well-written README  
+- Clear folder structure  
+
+Hence the project uses **best practice standard format**.
+
+---
+
+## 🚀 Conclusion
+This project demonstrates beginner–friendly yet impactful SQL analysis skills.  
+It reflects the ability to:
+- Work with relational datasets  
+- Write analytical SQL queries  
+- Compare group-level performance  
+- Extract meaningful insights  
+- Present results clearly
+
+---
+
+## 🤝 Contact
+For suggestions or collaborations, feel free to connect on LinkedIn!
+
+
+
